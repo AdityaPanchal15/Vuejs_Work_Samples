@@ -1,0 +1,4 @@
+This project about quick event participant checkin with qr code using Progressive Web App.
+Through this application, verifiers can login, get event details, see participant details.
+Verifiers can quickly scan participant's qr code through mobile app and after participant details verification, verifier can checkin participants.
+Verifiers can also use app to see data in offline mode.  
